@@ -25,6 +25,14 @@ namespace Contao;
  * @author     Leo Feyer <https://contao.org>
  * @package    Core
  */
+
+/**
+ * Class Module Login
+ * 
+ * Modified by Sascha Brandhoff
+ *
+ * @author Sascha Brandhoff <brandhoff@pixelspread.de>
+ */
 class ModuleRedirectLogin extends \Module
 {
 
